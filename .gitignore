@@ -1,4 +1,6 @@
 /Makefile
+/include/Makefile
+/src/Makefile
 
 __pycache__/
 *.py[cod]
